@@ -1,0 +1,8 @@
+pdfs/
+pdfs_txt/
+pdfs_specific/
+paper_prompts/
+run_grid.log
+__pycache__/
+*.pyc
+.DS_Store
